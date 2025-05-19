@@ -89,6 +89,55 @@ AFTER UPDATE
 ![image](https://github.com/user-attachments/assets/01376bd9-4df0-4c3b-b69f-ce11bde10182)
 
 
+## Relationships
+
+### 1. Insert the following documents into a `users` collection
+![image](https://github.com/user-attachments/assets/51f3fda4-956c-4dcc-a0c3-95489da891d9)
+
+After result:
+
+![image](https://github.com/user-attachments/assets/fb4313b0-c31c-4484-9fbd-ffc8809a0cad)
+
+
+### 2. Insert the following documents into a `posts` collection
+![image](https://github.com/user-attachments/assets/cdc9be0b-468b-437f-a25c-053faed197ee)
+![image](https://github.com/user-attachments/assets/97ba1f64-ab3f-4518-8388-90021ee5a103)
+
+### 3. Insert the following documents into a `comments` collection
+![image](https://github.com/user-attachments/assets/e4cf6e10-3342-412e-908e-b3825d64b437)
+![image](https://github.com/user-attachments/assets/a0455237-5caa-4d81-8dd4-0db26fa16132)
+
+Relational Afterwards:
+
+![image](https://github.com/user-attachments/assets/bfe9a1cd-cb73-4c04-a710-f0f1f6ad4874)
+
+
+## Querying related collections
+
+### 1. find all users
+![image](https://github.com/user-attachments/assets/e1b26449-f9ca-4f80-803f-ebb4b29227d2)
+
+### 2. find all posts
+![image](https://github.com/user-attachments/assets/988e2972-588f-4bf3-a2b4-a16995e62252)
+
+### 3. find all posts that was authored by &quot;GoodGuyGreg
+![image](https://github.com/user-attachments/assets/4278c1ca-ae3c-42db-b387-0de11fa0e4fc)
+
+### 4. find all posts that was authored by &quot;ScumbagSteve
+![image](https://github.com/user-attachments/assets/84dfeec3-b799-40dc-9a03-7f2faffeae63)
+
+### 5. find all comments
+![image](https://github.com/user-attachments/assets/54f942c3-2440-4a9c-b156-bbaaa9b6dc9c)
+
+### 6. find all comments that was authored by &quot;GoodGuyGreg
+![image](https://github.com/user-attachments/assets/94fbfbf1-5c36-42ef-b977-4a81181f9be4)
+
+### 7. find all comments that was authored by &quot;ScumbagSteve
+![image](https://github.com/user-attachments/assets/c9ef3b12-cd1d-4d52-826b-21d67403caae)
+
+### 8. find all comments belonging to the post &quot;Reports a bug in your code
+![image](https://github.com/user-attachments/assets/788a5f4b-6f7f-4ff1-a67a-2ca32e3ff623)
+
 
 
 
