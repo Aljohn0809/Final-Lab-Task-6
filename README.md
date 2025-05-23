@@ -110,7 +110,7 @@ Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their
 ### 1. Insert the following documents into a `users` collection
 ![image](https://github.com/user-attachments/assets/51f3fda4-956c-4dcc-a0c3-95489da891d9)
 
-After result:
+**After result:**
 
 ![image](https://github.com/user-attachments/assets/fb4313b0-c31c-4484-9fbd-ffc8809a0cad)
 
@@ -123,7 +123,7 @@ After result:
 ![image](https://github.com/user-attachments/assets/e4cf6e10-3342-412e-908e-b3825d64b437)
 ![image](https://github.com/user-attachments/assets/a0455237-5caa-4d81-8dd4-0db26fa16132)
 
-Relational Afterwards:
+**Relational Afterwards:**
 
 ![image](https://github.com/user-attachments/assets/bfe9a1cd-cb73-4c04-a710-f0f1f6ad4874)
 
